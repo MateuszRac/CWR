@@ -1,8 +1,0 @@
-PA	Patronym	TRUE	TRUE
-PP	Pseudonym	TRUE	FALSE
-PG	Pseudonym group	TRUE	FALSE
-MO	Modification	TRUE	TRUE
-DF	Different spelling	TRUE	TRUE
-ST	Standardised spelling	TRUE	TRUE
-OR	Other reference	FALSE	TRUE
-HR	Holding reference	FALSE	TRUE

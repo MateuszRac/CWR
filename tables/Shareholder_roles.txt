@@ -1,0 +1,15 @@
+A	Author/Lyricist	TRUE	FALSE	TRUE
+AD	Adaptor	TRUE	FALSE	FALSE
+AM	Administrator	FALSE	TRUE	FALSE
+AR	Arranger	TRUE	FALSE	FALSE
+AQ	Acquirer	FALSE	TRUE	FALSE
+C	Composer	TRUE	FALSE	TRUE
+CA	Composer/Author	TRUE	FALSE	TRUE
+E	Original Publisher	FALSE	TRUE	FALSE
+ES	Substitute Publisher	FALSE	TRUE	FALSE
+PA	Publisher Income Participant	FALSE	TRUE	FALSE
+PR	Associated Performer	FALSE	FALSE	FALSE
+SA	Sub-Author	TRUE	FALSE	FALSE
+SE	Sub-Publisher	FALSE	TRUE	FALSE
+SR	Sub-Arranger	TRUE	FALSE	FALSE
+TR	Translator	TRUE	FALSE	FALSE

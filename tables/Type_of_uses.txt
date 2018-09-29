@@ -1,11 +1,11 @@
 BT  
-OB  
-OD  
+OB  Online Broadcasting
+OD  On demand
 PC  
-PR  
-RB  
+PR  Public performance
+RB  Radio Broadcasting
 RT  
-TB  
+TB  Television Broadcasting
 TO  
 TP  
 TV  

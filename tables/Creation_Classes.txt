@@ -1,0 +1,15 @@
+AC  Achitectural Work
+AV  Audio-Visual Work
+CW  Choreographic Work(and mime)
+AD  Documentary Audio-Visual Work
+DW  Dramatic Work
+DM  Dramatico-Musical Work
+AF  Fiction Audio-Visual Work
+IS  Information System
+LF  Literary Fiction Work
+LN  Literary Non-Fiction Work
+LW  Literary Work
+MM  Multimedia Work
+MW  Musical Work
+PH  Photographic Work
+WA  Work of Art

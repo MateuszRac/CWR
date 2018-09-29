@@ -1,0 +1,35 @@
+AC  Actor
+AP  Analyst / Programmer
+AT  Architect
+WP  Author / Poet
+CP  Author Computer Graphic
+FA  Author of Fine Art
+AS  Author of sceenplay / Author of dialogue
+DS  Author of subtitles
+EB  Book Publisher
+CT  Cartoonist
+CG  Choreographer
+CD  Costume Designer
+DA  Data architect
+DG  Designer
+CM  Director of Photography / Cinematograph
+DW  Drawer / Graphic Artist
+RE  Film Director
+FD  Film Distributor
+ET  Film Editor
+AG  Graphic Designer
+EJ  Journal / Periodical / Magazine Publisher
+JO  Journalist
+LY  Lyricist / Librettist
+MD  Multimedia director
+EM  Music Publisher
+MC  Musical Creator (Composer)
+EP  Newspaper Publisher
+IN  Performer
+PH  Photographer
+PW  Playwright
+PR  Press agency
+PC  Producer
+PD  Production Designer (Set-Designer)
+ST  Sound Engineer
+MS  Stage Director

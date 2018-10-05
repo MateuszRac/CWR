@@ -9,3 +9,4 @@ TB  Television Broadcasting
 TO  
 TP  
 TV  
+MR  Mechanical rights

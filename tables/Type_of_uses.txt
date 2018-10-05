@@ -4,7 +4,7 @@ OD  On demand
 PC  
 PR  Public performance
 RB  Radio Broadcasting
-RT  
+RT  Cabele Retransmission
 TB  Television Broadcasting
 TO  
 TP  

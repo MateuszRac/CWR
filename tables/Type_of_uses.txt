@@ -1,12 +1,12 @@
 BT  
-OB  Online Broadcasting
+OB  Online radio Broadcasting
 OD  On demand
-PC  
-PR  Public performance
+PC  Right to public performance with phonograms anv videograms
+PR  Public performance (concerts and live music)
 RB  Radio Broadcasting
 RT  Cabele Retransmission
 TB  Television Broadcasting
-TO  
+TO  Radio broadcasting in public spaces (secondary broadcasting)
 TP  
-TV  
-MR  Mechanical rights
+TV  Television broadcasting in public spaces (secondary broadcasting)
+MR  Mechanical rights (right of reproduction)
